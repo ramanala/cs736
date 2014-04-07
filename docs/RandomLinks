@@ -1,0 +1,4 @@
+This file contains links and pointers to all interesting and related material to the project.
+
+Relationship between BIO, bvec and pages : http://www.makelinux.net/books/lkd2/ch13lev1sec3
+Copying buffers from user space to kernel space : http://linuxforthenew.blogspot.com/2013/01/why-doshould-we-use-copyfromuser-or.html

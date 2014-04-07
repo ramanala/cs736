@@ -1,0 +1,230 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.14)  3 APR 2014 13:35
+entering extended mode
+ %&-line parsing enabled.
+**final.tex
+(./final.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (./final.aux)
+\openout1 = `final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+ <figs/nbd-system.png, id=1, 695.398pt x 295.504pt>
+File: figs/nbd-system.png Graphic file (type png)
+ <use figs/nbd-system.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./figs/nbd-system.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 126.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 126.
+
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 194.
+
+ (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 194.
+
+Underfull \hbox (badness 1365) in paragraph at lines 194--197
+[]\OT1/cmr/m/n/10 Sequential vs Ran-dom -- Se-quen-tial pat-tern
+ []
+
+<figs/RandWrite.png, id=16, 691.58376pt x 403.5075pt>
+File: figs/RandWrite.png Graphic file (type png)
+ <use figs/RandWrite.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 218--220
+ [][] 
+ []
+
+<figs/SeqWrite.png, id=17, 692.5875pt x 401.5pt>
+File: figs/SeqWrite.png Graphic file (type png)
+ <use figs/SeqWrite.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 240--242
+ [][] 
+ []
+
+<figs/RandDist.png, id=18, 690.58pt x 403.5075pt>
+File: figs/RandDist.png Graphic file (type png)
+ <use figs/RandDist.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 248--249
+ [][] 
+ []
+
+<figs/SeqDist.png, id=19, 690.58pt x 402.50375pt>
+File: figs/SeqDist.png Graphic file (type png)
+ <use figs/SeqDist.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 255--256
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figs/RandWrite.png (PNG copy)> <./figs/SeqWrite.png (PNG copy)> <./figs/
+RandDist.png (PNG copy)>] <figs/OLTP.png, id=24, 691.58376pt x 401.5pt>
+File: figs/OLTP.png Graphic file (type png)
+
+<use figs/OLTP.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 312--313
+ [][] 
+ []
+
+<figs/WithCacheEvic.png, id=25, 691.58376pt x 401.5pt>
+File: figs/WithCacheEvic.png Graphic file (type png)
+
+<use figs/WithCacheEvic.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 319--320
+ [][] 
+ []
+
+[4 <./figs/SeqDist.png (PNG copy)> <./figs/OLTP.png (PNG copy)> <./figs/WithCac
+heEvic.png (PNG copy)>]
+<figs/BTRFSSeqWrite.png, id=29, 688.5725pt x 400.49625pt>
+File: figs/BTRFSSeqWrite.png Graphic file (type png)
+
+<use figs/BTRFSSeqWrite.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 382--383
+ [][] 
+ []
+
+<figs/BTRFSSeqDist.png, id=30, 520.94624pt x 304.13625pt>
+File: figs/BTRFSSeqDist.png Graphic file (type png)
+
+<use figs/BTRFSSeqDist.png>
+Overfull \hbox (5.0pt too wide) in paragraph at lines 395--396
+ [][] 
+ []
+
+
+Underfull \vbox (badness 2573) has occurred while \output is active []
+
+ [5 <./figs/BTRFSSeqWrite.png (PNG copy)> <./figs/BTRFSSeqDist.png (PNG copy)>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--504
+[]\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--504
+\OT1/cmr/m/n/10 http://sysbench.sourceforge.net/index.html,
+ []
+
+[6] [7
+
+] (./final.aux) ) 
+Here is how much of TeX's memory you used:
+ 1029 strings out of 495061
+ 13302 string characters out of 1182620
+ 69932 words of memory out of 3000000
+ 4236 multiletter control sequences out of 15000+50000
+ 8101 words of font info for 29 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 25i,7n,19p,258b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmtt10.pfb>
+Output written on final.pdf (7 pages, 270161 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
